@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.izzatulsabrina.user.service.UserServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.507 s - in com.izzatulsabrina.user.service.UserServiceApplicationTests
